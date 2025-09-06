@@ -1,43 +1,42 @@
-<h3 align="center">A passionate Full-Stack Developer and Problem Solver from India</h3>
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sohamrider786" alt="sohamrider786" />
-  </a> 
-</p>
-<p align="left">I am currently pursuing my Bachelor's degree in Computer Science and Engineering from Jadavpur University. Over the course of my studies, I've developed a deep interest in both frontend and backend development, along with a strong passion for solving complex problems using Data Structures and Algorithms.</p>
-<p align="left">Here are some of the key projects I've worked on:</p>
-E-commerce Website: A full-stack application built using React JS, Context API, Stripe, Firestore, and Firebase Authentication. The application supports real-time order tracking and secure user authentication. Deployed on Netlify.
-Chat Website: A real-time unicast chat application using React JS, Firebase, and React Context API. It includes features such as user registration, login, and group chat functionalities. Deployed on Firebase.
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/soham-chowdhury-6321a5225" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham-chowdhury-6321a5225" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/runtime_terror_2020" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="runtime_terror_2020" height="30" width="40" />
-  </a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohamrider786&show_icons=true&locale=en&layout=compact" alt="sohamrider786" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohamrider786&show_icons=true&locale=en" alt="sohamrider786" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohamrider786&" alt="sohamrider786" /></p>
+# 👋 Hi, I'm Soham Chowdhury  
+### 💻 Full-Stack Developer | Problem Solver | Tech Enthusiast  
+
+🎓 **Computer Science & Engineering Student** at Jadavpur University  
+🌱 Passionate about **Web Development**, **Backend Systems**, and **Cloud Deployment**  
+🚀 Building scalable applications and solving real-world problems through code  
+
+---
+
+### 🛠 Tech Stack:
+- **Frontend:** Angular, React, HTML, CSS, Bootstrap  
+- **Backend:** Spring Boot, Node.js, REST APIs  
+- **Database:** MySQL, H2, Firestore  
+- **Tools & Others:** Git, Docker, Firebase, JWT Authentication  
+
+---
+
+### 🚀 Featured Projects:
+- **✅ Task Management App (Full Stack)**  
+  Built using **Spring Boot (JWT, JPA, H2)** for backend and **Angular** for frontend.  
+  Features user-specific todo lists, authentication, and CRUD operations.  
+
+- **🛒 E-Commerce Platform**  
+  Full-stack app using **React, Context API, Stripe Payments, Firebase Authentication**.  
+  Includes real-time order tracking and secure payments.  
+
+- **💬 Real-Time Chat Application**  
+  Developed with **React JS, Firebase, and Context API**, supporting unicast and group chats.  
+
+---
+
+### 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/soham-chowdhury-6321a5225)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode)](https://leetcode.com/runtime_terror_2020)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamrider786&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohamrider786&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohamrider786)
+
+---
