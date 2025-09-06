@@ -8,6 +8,7 @@
 ---
 
 ### 🛠 Tech Stack:
+- **Languages:** Java, JavaScript, TypeScript, C++  
 - **Frontend:** Angular, React, HTML, CSS, Bootstrap  
 - **Backend:** Spring Boot, Node.js, REST APIs  
 - **Database:** MySQL, H2, Firestore  
